@@ -64,6 +64,7 @@
       </trans-unit>
       <trans-unit id="678">
         <source xml:space="preserve">Мои задачи</source>
+        <target>мафувпм</target>
         <note priority="1" from="description">Название раздела</note>
         <note priority="1" from="meaning">Задачи доступные для решения текущему пользователю</note>
       </trans-unit>
