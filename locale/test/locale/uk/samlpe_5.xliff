@@ -55,6 +55,7 @@
       </trans-unit>
       <trans-unit id="674">
         <source xml:space="preserve">ЗАКРЫТА</source>
+        <target>ФУКЕПА</target>
         <note priority="1" from="description">Статус задачи</note>
         <note priority="1" from="meaning">По истечению трех дней после получения статуса «решена», задача получает статус «закрыта» и пользователь не может больше отправлять её на проверку.</note>
       </trans-unit>
