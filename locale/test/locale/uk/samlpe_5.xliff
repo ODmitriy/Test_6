@@ -18,6 +18,7 @@
       </trans-unit>
       <trans-unit id="Section">
         <source xml:space="preserve">Все задачи</source>
+        <target>куенрыкенрыцкенрыцкеркр</target>
         <note priority="1" from="description">Название раздела</note>
         <note priority="1" from="meaning">Все задачи курса (1200шт.). При нажатии показываются все задачи курса.</note>
       </trans-unit>
