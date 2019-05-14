@@ -23,11 +23,13 @@
       </trans-unit>
       <trans-unit id="651">
         <source xml:space="preserve">Задачи</source>
+        <target>Задача</target>
         <note priority="1" from="description">Заголовок страницы. Множественное число</note>
         <note priority="1" from="meaning">Данный заголовок отображается при выборе пользователем списка задач (например пункта Мои задачи, Все задачи или Нерешенные задачи)</note>
       </trans-unit>
       <trans-unit id="657">
         <source xml:space="preserve">Задача</source>
+        <target>Завдання</target>
         <note priority="1" from="description">Заголовок страницы. Единственное число</note>
         <note priority="1" from="meaning">Данный заголовок отображается при выборе пользователем конкретной задачи</note>
       </trans-unit>
